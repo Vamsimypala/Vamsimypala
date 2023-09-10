@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQHMMJcCbAXtmg/article-cover_image-shrink_600_2000/0/1641482418001?e=2147483647&v=beta&t=-_Ti0Mxj1am8TTn3VICotbj9RRJ8wa_HhjEMM2WLQfI)
 <h1 align="center">Hi 👋, I'm Vamsi mypala</h1>
 <h3 align="center">Aspired about Machine learning and graphic designing</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3d3dnODYxYWF0N3RkaW02NDAzNmM1dmU5bnZtZGwwNGR0NTMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
