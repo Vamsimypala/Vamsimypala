@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vamsimypala@gmail.com**
 
-- ⚡ Fun fact **I'm an Ambivert**
+- ⚡ Fun fact **Close enough of ____________**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
