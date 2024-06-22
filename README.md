@@ -1,13 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQHMMJcCbAXtmg/article-cover_image-shrink_600_2000/0/1641482418001?e=2147483647&v=beta&t=-_Ti0Mxj1am8TTn3VICotbj9RRJ8wa_HhjEMM2WLQfI)
 <h1 align="center">Hi 👋, I'm Vamsi mypala</h1>
-<h3 align="center">Aspired about Machine learning and graphic designing</h3>
+<h3 align="center">Aspired about Machine learning and Fullstack development</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3d3dnODYxYWF0N3RkaW02NDAzNmM1dmU5bnZtZGwwNGR0NTMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsimypala&label=Profile%20views&color=0e75b6&style=flat" alt="vamsimypala" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning and web development projects**
 
 - 🤝 I’m looking for help with **Data analytics**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vamsimypala@gmail.com**
 
-- ⚡ Fun fact **Close enough of ____________**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
